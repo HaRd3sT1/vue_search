@@ -1,0 +1,29 @@
+[
+    {
+      "id":0,
+      "title":"Access to clean water and waterworks system: a young water professional’s perspective",
+        "summary":"Son necesarios recursos y educación para los sectores marginados con el fin de resolver este problema existente.",
+      "image":"https://cdn.discordapp.com/attachments/856799859120799754/864538511608381450/debby-hudson-tb8Cz7qsLQw-unsplash.jpg",
+      "author":"Kathleen Faigal",
+      "tags": ["Drinking Water","Water Scarcity","Water Quality"],
+      "create_date":"2021-04-23T18:25:43.511Z"
+    },
+    {
+      "id":1,
+      "title":"[Policy Brief] The new face of large dams in the 21st century",
+        "summary":"In the last twenty years, a new generation of large dams has emerged. Unlike the second half of the 20th century, the ‘golden age’ of building dams, large 21st century dams are gigantic.",
+      "image":"https://firebasestorage.googleapis.com/v0/b/water-science-policy.appspot.com/o/articles%2Fa0bb4ca7-4c1f-4d40-8685-b13a28bdcb9a%2Fimages%2Fhoover.jpg?alt=media&token=cf8949c5-4aab-4b46-b5dc-6c10e0498a5e",
+      "author":"Atal Ahmadzai",
+      "tags": ["Hydropower","Energy","Drinking Water"],
+      "create_date":"2021-04-22T18:25:43.511Z"
+    },
+    {
+      "id":2,
+      "title":"Sharks on the brink of extinction",
+        "summary":"Approximately 100 million sharks are killed globally each year, and one of the major incentives for this is the shark fin trade. Indonesia is the biggest shark fishing nation in the world.",
+      "image":"https://firebasestorage.googleapis.com/v0/b/water-science-policy.appspot.com/o/articles%2F463e7f7f-81e2-4972-8170-c7e884e846e0%2Fimages%2FSharks-1.jpg?alt=media&token=2585876c-2313-4d2a-a399-0e9aa95cd39a",
+      "author":"Federico Borella",
+      "tags": ["Marine Ecology","Conservation","Biodiversity"],
+      "create_date":"2021-04-21T18:25:43.511Z"
+    }
+  ]
